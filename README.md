@@ -23,8 +23,10 @@
 [Session](https://github.com/oxen-io) :carrot:
 [Manyverse](https://www.manyver.se/) :carrot:
 [nostr](https://github.com/topics/nostr) :carrot:
+[Misskey](https://github.com/misskey-dev/misskey) :carrot:
 [cabal](https://cabal.chat/) :carrot:
 [keet](https://keet.io/) :carrot:
+[aether](https://aether.app/) :carrot:
 [Delta Chat](https://f-droid.org/en/packages/com.b44t.messenger/) :carrot:
 [Briar](https://f-droid.org/en/packages/org.briarproject.briar.android/) :carrot:
 [Status](https://f-droid.org/en/packages/im.status.ethereum/)
