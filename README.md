@@ -18,10 +18,11 @@
 [libp2p](https://libp2p.io/) :carrot:
 [devp2p](https://github.com/ethereum/devp2p) :carrot:
 [Yggdrasil](https://yggdrasil-network.github.io/) :carrot:
-[lokinet](https://github.com/oxen-io/lokinet) :carrot:
 [Overview 1](https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery) :carrot:
-[LibreMesh](https://libremesh.org/) :carrot:
+[lokinet](https://github.com/oxen-io/lokinet) :carrot:
+[onion routing](https://en.wikipedia.org/wiki/Tor_(network)) :carrot:
 [multihop Mesh networking](https://freifunk.net/en/) :carrot:
+[LibreMesh](https://libremesh.org/) :carrot:
 [qaul](https://github.com/qaul/qaul.net) :carrot:
 [Web4](https://en.everybodywiki.com/Web4)
 
