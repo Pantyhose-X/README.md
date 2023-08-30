@@ -7,9 +7,11 @@
 
 [Cairo](https://github.com/starkware-libs/cairo) :carrot: [Solidity](https://github.com/ethereum/solidity) :carrot: [Clarity](https://clarity-lang.org/) :carrot: [Vyper](https://github.com/vyperlang/vyper) :carrot: [Huff](https://github.com/huff-language/huff-rs) :carrot: [Move](https://github.com/move-language/move) :carrot: [Carbon](https://github.com/carbon-language/carbon-lang) :carrot: [Exo](https://github.com/exo-lang/exo) :carrot: [Tensor](https://github.com/gilbo/atl) :carrot: [Ebb](https://github.com/gilbo/ebb) 
 
-[Guile](https://www.gnu.org/software/guile/) :carrot: [arturo
-](https://github.com/arturo-lang/arturo) :carrot: [Perl](https://en.wikipedia.org/wiki/Perl) :carrot: [Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: [janet](https://github.com/janet-lang/janet) :carrot: [squirrel](https://github.com/albertodemichelis/squirrel) :carrot: 
+[Guile](https://www.gnu.org/software/guile/) :carrot: [free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) :carrot: [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language))
 
+[arturo](https://github.com/arturo-lang/arturo) :carrot: [Perl](https://en.wikipedia.org/wiki/Perl) :carrot: [Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: [janet](https://github.com/janet-lang/janet) :carrot: [squirrel](https://github.com/albertodemichelis/squirrel)
+
+[Verilog](https://en.wikipedia.org/wiki/Verilog) :carrot: [VHDL](https://en.wikipedia.org/wiki/VHDL) :carrot: [Machine code](https://en.wikipedia.org/wiki/Machine_code) :carrot: [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 
 # :spider_web: networking
 [Holepunch](https://hypercore-protocol.org/) :carrot:
@@ -18,7 +20,9 @@
 [Yggdrasil](https://yggdrasil-network.github.io/) :carrot:
 [lokinet](https://github.com/oxen-io/lokinet) :carrot:
 [Overview 1](https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery) :carrot:
+[LibreMesh](https://libremesh.org/) :carrot:
 [multihop Mesh networking](https://freifunk.net/en/) :carrot:
+[qaul](https://github.com/qaul/qaul.net) :carrot:
 [Web4](https://en.everybodywiki.com/Web4)
 
 # :seedling: Contact me
