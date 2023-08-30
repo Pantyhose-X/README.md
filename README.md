@@ -7,6 +7,10 @@
 
 [Cairo](https://github.com/starkware-libs/cairo) :carrot: [Solidity](https://github.com/ethereum/solidity) :carrot: [Clarity](https://clarity-lang.org/) :carrot: [Vyper](https://github.com/vyperlang/vyper) :carrot: [Huff](https://github.com/huff-language/huff-rs) :carrot: [Move](https://github.com/move-language/move) :carrot: [Carbon](https://github.com/carbon-language/carbon-lang) :carrot: [Exo](https://github.com/exo-lang/exo) :carrot: [Tensor](https://github.com/gilbo/atl) :carrot: [Ebb](https://github.com/gilbo/ebb) 
 
+[Guile](https://www.gnu.org/software/guile/) :carrot: [arturo
+](https://github.com/arturo-lang/arturo) :carrot: [Perl](https://en.wikipedia.org/wiki/Perl) :carrot: [Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: [janet](https://github.com/janet-lang/janet) :carrot: [squirrel](https://github.com/albertodemichelis/squirrel) :carrot: 
+
+
 # :spider_web: networking
 [Holepunch](https://hypercore-protocol.org/) :carrot:
 [libp2p](https://libp2p.io/) :carrot:
