@@ -24,6 +24,8 @@
 [multihop Mesh networking](https://freifunk.net/en/) :carrot:
 [LibreMesh](https://libremesh.org/) :carrot:
 [qaul](https://github.com/qaul/qaul.net) :carrot:
+[helium](https://www.helium.com/) :carrot:
+[NKN](https://nkn.org/) :carrot:
 [Web4](https://en.everybodywiki.com/Web4)
 
 # :seedling: Contact me
