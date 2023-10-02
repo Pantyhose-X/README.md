@@ -28,6 +28,16 @@
 [NKN](https://nkn.org/) :carrot:
 [Web4](https://en.everybodywiki.com/Web4)
 
+# [Constructed language](https://github.com/Pantyhose-X/Logical)
+[Lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US) :bee:
+[Toaq](https://toaq.net/) :bee:
+[eberban](https://github.com/eberban/eberban) :bee:
+[maj](https://github.com/sage-code/maj) :bee:
+[Elefen](https://elefen.org/) :bee:
+[Ido](https://en.wikipedia.org/wiki/Ido) :bee:
+[Esperanto](https://en.wikipedia.org/wiki/Esperanto) :bee:
+English :bee:
+[Russian](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet) :bee:
 # :seedling: Contact me
 [Revolt](https://rvlt.gg/) :carrot:
 [SimpleX Chat](https://simplex.chat/) :carrot:
