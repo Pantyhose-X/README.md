@@ -6,11 +6,17 @@
 [Red](https://github.com/red/red) :carrot: 
 [Crystal](https://github.com/crystal-lang/crystal) :carrot: 
 [Julia](https://github.com/JuliaLang/julia) :carrot: 
+[Codon](https://github.com/exaloop/codon) :carrot:
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
 
+
+
+
 [OCaml](https://github.com/ocaml/ocaml) :carrot: 
+[Mojo](https://www.modular.com/mojo) :carrot: 
+[Haxe](https://github.com/HaxeFoundation/haxe) :carrot: 
 [Haskell](https://en.wikipedia.org/wiki/Haskell) :carrot: 
-[terra](https://github.com/terralang/terra) :carrot: 
+[Terra](https://github.com/terralang/terra) :carrot: 
 [V](https://github.com/vlang/v) :carrot: 
 [Ponyc](https://github.com/ponylang/ponyc) :carrot:  
 [ARA](https://www.adaic.org/) :carrot: 
@@ -25,6 +31,7 @@
 [Go](https://go.dev/)  :carrot: 
 [Carbon](https://github.com/carbon-language/carbon-lang) 
 
+
 [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)) :carrot: 
 [Fortran](https://fortran-lang.org/) :carrot: 
 [Spiral](https://github.com/mrakgr/The-Spiral-Language) :carrot: 
@@ -38,20 +45,19 @@
 [Vyper](https://github.com/vyperlang/vyper) :carrot: 
 [Huff](https://github.com/huff-language/huff-rs) :carrot: 
 [Move](https://github.com/move-language/move) :carrot: 
-[Carbon](https://github.com/carbon-language/carbon-lang) :carrot: 
 [Exo](https://github.com/exo-lang/exo) :carrot: 
 [Tensor](https://github.com/gilbo/atl) :carrot: 
 [Ebb](https://github.com/gilbo/ebb) 
 
 [Guile](https://www.gnu.org/software/guile/) :carrot: 
-[free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) :carrot: 
+[Free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) :carrot: 
 [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language))
 
-[arturo](https://github.com/arturo-lang/arturo) :carrot: 
+[Arturo](https://github.com/arturo-lang/arturo) :carrot: 
 [Perl](https://en.wikipedia.org/wiki/Perl) :carrot: 
 [Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: 
-[janet](https://github.com/janet-lang/janet) :carrot: 
-[squirrel](https://github.com/albertodemichelis/squirrel)
+[Janet](https://github.com/janet-lang/janet) :carrot: 
+[Squirrel](https://github.com/albertodemichelis/squirrel)
 
 [Verilog](https://en.wikipedia.org/wiki/Verilog) :carrot: 
 [VHDL](https://en.wikipedia.org/wiki/VHDL) :carrot: 
