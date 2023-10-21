@@ -1,22 +1,69 @@
 # :lady_beetle: programming language
-[Rust](https://github.com/rust-lang/rust) :carrot:[Zig](https://github.com/ziglang/zig) :carrot: [Nim](https://github.com/nim-lang/Nim) :carrot: [Nelua](https://github.com/edubart/nelua-lang) :carrot: [Red](https://github.com/red/red) :carrot: [Crystal](https://github.com/crystal-lang/crystal) :carrot: [Julia](https://github.com/JuliaLang/julia) :carrot: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
+[Rust](https://github.com/rust-lang/rust) :carrot:
+[Zig](https://github.com/ziglang/zig) :carrot: 
+[Nim](https://github.com/nim-lang/Nim) :carrot: 
+[Nelua](https://github.com/edubart/nelua-lang) :carrot: 
+[Red](https://github.com/red/red) :carrot: 
+[Crystal](https://github.com/crystal-lang/crystal) :carrot: 
+[Julia](https://github.com/JuliaLang/julia) :carrot: 
+[Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
 
-[OCaml](https://github.com/ocaml/ocaml) :carrot: [Haskell](https://en.wikipedia.org/wiki/Haskell) :carrot: [terra](https://github.com/terralang/terra) :carrot: [V](https://github.com/vlang/v) :carrot: [Ponyc](https://github.com/ponylang/ponyc) :carrot:  [ARA](https://www.adaic.org/) :carrot: [Lisp](https://common-lisp.net/) :carrot: [Forth](https://forth-standard.org/) :carrot: [D](https://dlang.org/) :carrot: [Vala](https://vala.dev/) :carrot: [Elixir](https://elixir-lang.org/) :carrot: [ATS](https://www.cs.bu.edu/~hwxi/atslangweb/) :carrot: [Hare](https://harelang.org/) :carrot: [Acton](https://github.com/actonlang/acton) :carrot:[Go](https://go.dev/)  :carrot: [Carbon](https://github.com/carbon-language/carbon-lang) 
+[OCaml](https://github.com/ocaml/ocaml) :carrot: 
+[Haskell](https://en.wikipedia.org/wiki/Haskell) :carrot: 
+[terra](https://github.com/terralang/terra) :carrot: 
+[V](https://github.com/vlang/v) :carrot: 
+[Ponyc](https://github.com/ponylang/ponyc) :carrot:  
+[ARA](https://www.adaic.org/) :carrot: 
+[Lisp](https://common-lisp.net/) :carrot: 
+[Forth](https://forth-standard.org/) :carrot: 
+[D](https://dlang.org/) :carrot: 
+[Vala](https://vala.dev/) :carrot: 
+[Elixir](https://elixir-lang.org/) :carrot: 
+[ATS](https://www.cs.bu.edu/~hwxi/atslangweb/) :carrot: 
+[Hare](https://harelang.org/) :carrot: 
+[Acton](https://github.com/actonlang/acton) :carrot:
+[Go](https://go.dev/)  :carrot: 
+[Carbon](https://github.com/carbon-language/carbon-lang) 
 
-[Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)) :carrot: [Fortran](https://fortran-lang.org/) :carrot: [Spiral](https://github.com/mrakgr/The-Spiral-Language) :carrot: [PRQL](https://github.com/PRQL/prql) :carrot: [Odin](https://github.com/odin-lang/Odin) :carrot: [CSpydr](https://github.com/Spydr06/CSpydr)  
+[Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)) :carrot: 
+[Fortran](https://fortran-lang.org/) :carrot: 
+[Spiral](https://github.com/mrakgr/The-Spiral-Language) :carrot: 
+[PRQL](https://github.com/PRQL/prql) :carrot: 
+[Odin](https://github.com/odin-lang/Odin) :carrot: 
+[CSpydr](https://github.com/Spydr06/CSpydr)  
 
-[Cairo](https://github.com/starkware-libs/cairo) :carrot: [Solidity](https://github.com/ethereum/solidity) :carrot: [Clarity](https://clarity-lang.org/) :carrot: [Vyper](https://github.com/vyperlang/vyper) :carrot: [Huff](https://github.com/huff-language/huff-rs) :carrot: [Move](https://github.com/move-language/move) :carrot: [Carbon](https://github.com/carbon-language/carbon-lang) :carrot: [Exo](https://github.com/exo-lang/exo) :carrot: [Tensor](https://github.com/gilbo/atl) :carrot: [Ebb](https://github.com/gilbo/ebb) 
+[Cairo](https://github.com/starkware-libs/cairo) :carrot: 
+[Solidity](https://github.com/ethereum/solidity) :carrot: 
+[Clarity](https://clarity-lang.org/) :carrot: 
+[Vyper](https://github.com/vyperlang/vyper) :carrot: 
+[Huff](https://github.com/huff-language/huff-rs) :carrot: 
+[Move](https://github.com/move-language/move) :carrot: 
+[Carbon](https://github.com/carbon-language/carbon-lang) :carrot: 
+[Exo](https://github.com/exo-lang/exo) :carrot: 
+[Tensor](https://github.com/gilbo/atl) :carrot: 
+[Ebb](https://github.com/gilbo/ebb) 
 
-[Guile](https://www.gnu.org/software/guile/) :carrot: [free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) :carrot: [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+[Guile](https://www.gnu.org/software/guile/) :carrot: 
+[free Pascal](https://en.wikipedia.org/wiki/Free_Pascal) :carrot: 
+[Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language))
 
-[arturo](https://github.com/arturo-lang/arturo) :carrot: [Perl](https://en.wikipedia.org/wiki/Perl) :carrot: [Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: [janet](https://github.com/janet-lang/janet) :carrot: [squirrel](https://github.com/albertodemichelis/squirrel)
+[arturo](https://github.com/arturo-lang/arturo) :carrot: 
+[Perl](https://en.wikipedia.org/wiki/Perl) :carrot: 
+[Tcl](https://en.wikipedia.org/wiki/Tcl) :carrot: 
+[janet](https://github.com/janet-lang/janet) :carrot: 
+[squirrel](https://github.com/albertodemichelis/squirrel)
 
-[Verilog](https://en.wikipedia.org/wiki/Verilog) :carrot: [VHDL](https://en.wikipedia.org/wiki/VHDL) :carrot: [Machine code](https://en.wikipedia.org/wiki/Machine_code) :carrot: [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+[Verilog](https://en.wikipedia.org/wiki/Verilog) :carrot: 
+[VHDL](https://en.wikipedia.org/wiki/VHDL) :carrot: 
+[Machine code](https://en.wikipedia.org/wiki/Machine_code) :carrot: 
+[Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 
 # :spider_web: networking
 [Holepunch](https://hypercore-protocol.org/) :carrot:
 [libp2p](https://libp2p.io/) :carrot:
 [devp2p](https://github.com/ethereum/devp2p) :carrot:
+[pinecone](https://github.com/matrix-org/pinecone) :carrot:
+[nebula](https://github.com/slackhq/nebula) :carrot:
 [Yggdrasil](https://yggdrasil-network.github.io/) :carrot:
 [Overview 1](https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery) :carrot:
 [lokinet](https://github.com/oxen-io/lokinet) :carrot:
@@ -42,6 +89,7 @@ English :bee:
 [Revolt](https://rvlt.gg/) :carrot:
 [SimpleX Chat](https://simplex.chat/) :carrot:
 [Session](https://github.com/oxen-io) :carrot:
+[matrix](https://matrix.org/) :carrot:
 [Manyverse](https://www.manyver.se/) :carrot:
 [nostr](https://github.com/topics/nostr) :carrot:
 [Misskey](https://github.com/misskey-dev/misskey) :carrot:
