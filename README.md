@@ -15,6 +15,7 @@
 [OCaml](https://github.com/ocaml/ocaml) :carrot: 
 [Mojo](https://www.modular.com/mojo) :carrot: 
 [Haxe](https://github.com/HaxeFoundation/haxe) :carrot: 
+[Roc](https://github.com/roc-lang/roc) :carrot: 
 [Haskell](https://en.wikipedia.org/wiki/Haskell) :carrot: 
 [Terra](https://github.com/terralang/terra) :carrot: 
 [V](https://github.com/vlang/v) :carrot: 
