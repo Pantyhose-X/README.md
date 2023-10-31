@@ -3,11 +3,11 @@
 [Zig](https://github.com/ziglang/zig) :egg:
 [Odin](https://github.com/odin-lang/Odin) :egg:
 [Nim](https://github.com/nim-lang/Nim) :egg: 
-[Nelua](https://github.com/edubart/nelua-lang) :egg: 
-[CSpydr](https://github.com/Spydr06/CSpydr)
-[Red](https://github.com/red/red) :egg: 
-[Crystal](https://github.com/crystal-lang/crystal) :egg: 
-[Julia](https://github.com/JuliaLang/julia) :egg: 
+[Nelua](https://github.com/edubart/nelua-lang) :egg:
+[CSpydr](https://github.com/Spydr06/CSpydr) :egg:
+[Red](https://github.com/red/red) :egg:
+[Crystal](https://github.com/crystal-lang/crystal) :egg:
+[Julia](https://github.com/JuliaLang/julia) :egg:
 [Codon](https://github.com/exaloop/codon) :egg:
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
 
@@ -69,16 +69,26 @@
 [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 
 # :spider_web: networking
+[i2pd](https://github.com/PurpleI2P/i2pd) :egg:
+[lokinet](https://github.com/oxen-io/lokinet) :egg:
+[nym](https://nymtech.net/) :egg:
+[onion routing](https://en.wikipedia.org/wiki/Tor_(network)) :egg:
+
+[Hyphanet](https://www.hyphanet.org/) :egg:
+[nebula](https://github.com/slackhq/nebula) :egg:
+[Yggdrasil](https://yggdrasil-network.github.io/) :egg:
 [Holepunch](https://hypercore-protocol.org/) :egg:
 [libp2p](https://libp2p.io/) :egg:
 [devp2p](https://github.com/ethereum/devp2p) :egg:
 [pinecone](https://github.com/matrix-org/pinecone) :egg:
-[nebula](https://github.com/slackhq/nebula) :egg:
-[Yggdrasil](https://yggdrasil-network.github.io/) :egg:
+
+[earendil](https://github.com/mel-project/earendil/) :egg:
+[ZeroNetX](https://github.com/ZeroNetX/ZeroNet) :egg:
+[GNUnet](https://www.gnunet.org/en/index.html) :egg:
+[substratum](https://substratum.net/) :egg:
+
 [Overview 1](https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery) :egg:
-[lokinet](https://github.com/oxen-io/lokinet) :egg:
-[onion routing](https://en.wikipedia.org/wiki/Tor_(network)) :egg:
-[multihop Mesh networking](https://freifunk.net/en/) :egg:
+[multihop Mesh networking](https://freifunk.net/) :egg:
 [LibreMesh](https://libremesh.org/) :egg:
 [qaul](https://github.com/qaul/qaul.net) :egg:
 [helium](https://www.helium.com/) :egg:
