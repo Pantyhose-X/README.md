@@ -20,7 +20,7 @@
 [Haskell](https://en.wikipedia.org/wiki/Haskell) :carrot: 
 [Terra](https://github.com/terralang/terra) :carrot: 
 [V](https://github.com/vlang/v) :carrot: 
-[Ponyc](https://github.com/ponylang/ponyc) :carrot:  
+[Ponyc](https://github.com/ponylang/ponyc) :carrot: 
 [ARA](https://www.adaic.org/) :carrot: 
 [Lisp](https://common-lisp.net/) :carrot: 
 [Forth](https://forth-standard.org/) :carrot: 
